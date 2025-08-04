@@ -1,4 +1,4 @@
-🔐 Caesar Cipher
+🔐 Caesar Cipher :
 This project implements the Caesar Cipher — one of the simplest and most widely known encryption techniques — in two parts: Encryption and Decryption.
 
 Part I: 🔒 Encryption
